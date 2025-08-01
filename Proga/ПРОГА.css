@@ -1,0 +1,61 @@
+h3{
+    text-align: center;
+}
+.ssyl{
+    text-decoration: none;
+}
+.scam{
+    text-decoration:underline;
+    color: darkseagreen;
+}
+.tanks{
+    text-decoration: none;
+    color: black;
+}
+.card{
+    width: 15%;
+    box-shadow: 100%;
+}
+
+.elit{
+    color:darkseagreen;
+    text-decoration: underline;
+}
+.ddd{
+    text-align: center;
+}
+
+p{
+    font-size: 18px;
+}
+
+.secret{
+    margin: 0 20% 20% 20%;
+}
+
+.scr{
+    font-size: 36px;
+    color: darkkhaki;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#AGE{
+    padding: 3%;
+    border: 1px solid darkkhaki;
+    border-radius: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#click{
+    margin-left: 15%;
+    background: none;
+    padding: 5%;
+    border-radius: 20px;
+    border: 1px groove darkkhaki;
+    font-size: 14px;
+}
+
+#ww{
+    padding-left: 25%;
+}
