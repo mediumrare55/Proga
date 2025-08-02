@@ -26,3 +26,14 @@ function checkForm(){
 
 
 
+document.addEventListener("input", getMyName);
+function getMyName() {
+    let namee=document.getElementById("NAME").value;
+    if (namee==""){
+        document.getElementById("more").innerHTML="Имени нет";
+    }else{
+        document.getElementById("more").innerHTML="Привет, " + namee;
+    }
+    
+}
+
